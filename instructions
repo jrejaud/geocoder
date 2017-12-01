@@ -1,0 +1,19 @@
+Important:
+Software Design, Code Quality, Life Cycle
+
+Goal:
+Resolve the lat, long coordinates for that address using third party geocoding services
+Create restful service using a HTTP interface and JSON for data serialization
+Two different third part geocoding services (main and backup)
+Implement own HTTP request code, don't use third party libraries to access geocoding services
+Production Quality
+
+Documentation:
+How to run Service
+How to use the services API
+
+Don't need to make it scalable
+
+HTTP interface to CLI for running the service
+
+

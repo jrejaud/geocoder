@@ -1,0 +1,5 @@
+Development Notes
+
+Create a single class to run the HTTP server and an abstract class for the Geocoding component.
+
+Each 3rd party geocoding service will be its own instance of the Geocoding abstract class. 

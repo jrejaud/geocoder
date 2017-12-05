@@ -4,8 +4,8 @@ Written by Jordan Rejaud
 For questions/ bug fixes email jrejaud@gmail.com or make a PR/ bug request to Github
 
 ## Requirements
-Python 2.7.10
-[Pipenv](https://docs.pipenv.org/) (for dependencies)
+- Python 2.7.10
+- [Pipenv](https://docs.pipenv.org/) (for dependencies)
 
 ## Installation
 1. Clone this repo

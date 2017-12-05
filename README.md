@@ -1,5 +1,6 @@
 # Simple Geocoder Service
 Written by Jordan Rejaud
+
 For questions/ bug fixes email jrejaud@gmail.com or make a PR/ bug request to Github
 
 ## Requirements
@@ -12,6 +13,7 @@ Python 2.7.10
 
 ## Running the Service
 `python server.py`
+
 Server uses port 9000
 
 ## Using the Service
